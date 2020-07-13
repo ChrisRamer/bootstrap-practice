@@ -1,12 +1,22 @@
 body {
-	background-color: lightgreen;
+	background-color: #725ef7;
 	text-align: center;
+	color: #4555ff;
 }
 
 .jumbotron {
-	background-color: limegreen;
+	background-color: #9080ff;
 }
 
 .container {
-	background-color: limegreen;
+	background-color: #9080ff;
+}
+
+.panel-info .panel-heading {
+	background-color: #9080ff;
+}
+
+.bg-success {
+	background-color: rebeccapurple;
+	color: #7accff;
 }
